@@ -1,0 +1,3 @@
+rootProject.name = 'pointbarber'
+
+include ':app'
